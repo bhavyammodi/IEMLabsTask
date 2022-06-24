@@ -1,5 +1,6 @@
 # IEMLabsTask
-Use LocalHost to see the pages, or download all the files and open index.html.
+https://bhavyammodi.github.io/IEMLabsTask/
+This is the live hosting of the site.
 
 Sign Up page
 ![image](https://user-images.githubusercontent.com/83846197/175496171-336550f8-c5f7-4cec-b3a2-940403694db9.png)
